@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|c:\\users\\s25717\\source\\repos\\apbd_warehouse\\apbd_warehouse\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|solutionrelative:apbd_warehouse\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|c:\\users\\s25717\\source\\repos\\apbd_warehouse\\apbd_warehouse\\models\\productwarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|solutionrelative:apbd_warehouse\\models\\productwarehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|c:\\users\\s25717\\source\\repos\\apbd_warehouse\\apbd_warehouse\\models\\productwarehouserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|solutionrelative:apbd_warehouse\\models\\productwarehouserequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|c:\\users\\s25717\\source\\repos\\apbd_warehouse\\apbd_warehouse\\controllers\\warehousedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|solutionrelative:apbd_warehouse\\controllers\\warehousedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|c:\\users\\s25717\\source\\repos\\apbd_warehouse\\apbd_warehouse\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|solutionrelative:apbd_warehouse\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|c:\\users\\s25717\\source\\repos\\apbd_warehouse\\apbd_warehouse\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|solutionrelative:apbd_warehouse\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|c:\\users\\s25717\\source\\repos\\apbd_warehouse\\apbd_warehouse\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|solutionrelative:apbd_warehouse\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|c:\\users\\s25717\\source\\repos\\apbd_warehouse\\apbd_warehouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4639671C-40CC-473F-B050-BCB4A5275955}|APBD_warehouse\\APBD_warehouse.csproj|solutionrelative:apbd_warehouse\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\appsettings.json",
+              "RelativeDocumentMoniker": "APBD_warehouse\\appsettings.json",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\appsettings.json",
+              "RelativeToolTip": "APBD_warehouse\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-23T13:30:01.984Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\Models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "APBD_warehouse\\Models\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\Models\\Warehouse.cs",
+              "RelativeToolTip": "APBD_warehouse\\Models\\Warehouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:51:08.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WarehouseController.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\Controllers\\WarehouseController.cs",
+              "RelativeDocumentMoniker": "APBD_warehouse\\Controllers\\WarehouseController.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\Controllers\\WarehouseController.cs",
+              "RelativeToolTip": "APBD_warehouse\\Controllers\\WarehouseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:29:10.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "APBD_warehouse\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\Models\\Product.cs",
+              "RelativeToolTip": "APBD_warehouse\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:51:10.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "APBD_warehouse\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\Models\\Order.cs",
+              "RelativeToolTip": "APBD_warehouse\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:51:12.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductWarehouseRequest.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\Models\\ProductWarehouseRequest.cs",
+              "RelativeDocumentMoniker": "APBD_warehouse\\Models\\ProductWarehouseRequest.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\Models\\ProductWarehouseRequest.cs",
+              "RelativeToolTip": "APBD_warehouse\\Models\\ProductWarehouseRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:51:05.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductWarehouse.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\Models\\ProductWarehouse.cs",
+              "RelativeDocumentMoniker": "APBD_warehouse\\Models\\ProductWarehouse.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\Models\\ProductWarehouse.cs",
+              "RelativeToolTip": "APBD_warehouse\\Models\\ProductWarehouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:50:14.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WarehouseDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\Controllers\\WarehouseDbContext.cs",
+              "RelativeDocumentMoniker": "APBD_warehouse\\Controllers\\WarehouseDbContext.cs",
+              "ToolTip": "C:\\Users\\s25717\\source\\repos\\APBD_warehouse\\APBD_warehouse\\Controllers\\WarehouseDbContext.cs",
+              "RelativeToolTip": "APBD_warehouse\\Controllers\\WarehouseDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T13:29:10.683Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
