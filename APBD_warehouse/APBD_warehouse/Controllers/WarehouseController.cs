@@ -43,7 +43,7 @@ namespace APBD_warehouse.Controllers
 
         // If dbcontext is not used
 
-        private readonly string connectionString = "YourConnectionStringGoesHere";
+        private readonly string connectionString = _configuration.GetConnectionString("DefaultConnection");
 
 
         [HttpPost]
